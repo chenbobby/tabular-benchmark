@@ -34,3 +34,4 @@ __pycache__/
 config/
 analyses/save_benchmarks.R
 .venv/
+openml_cache/
